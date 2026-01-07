@@ -26,9 +26,9 @@ print("Mixed List:", mixed_list)
 # 3. Nested List
 # --------------------------------
 student_data = [
-    ["Asha", 21],
-    ["Rahul", 23],
-    ["Neha", 22]
+    ["A", 21],
+    ["B", 23],
+    ["C", 22]
 ]
 
 print("Student Data:")
